@@ -382,5 +382,6 @@ address.show {
     }
     .bottom1{
         grid-column: 1 ;
+        width: 100%;
     }
 }
